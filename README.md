@@ -1,0 +1,4 @@
+ycnote
+======
+
+miscellaneous daily note
